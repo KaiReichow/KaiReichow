@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaiReichow
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning Swift, JS, HTML/CSS, and React.
+- 👀 I’m interested in AI and app development
+- 🌱 I’m currently learning Swift, C, and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
